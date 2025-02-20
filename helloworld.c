@@ -2,6 +2,6 @@
 int main()
 {
     printf("Hello World");
-    //scanf("%d",&a);gcc
+    //scanf("%d",&a);
         return 0;
 }
